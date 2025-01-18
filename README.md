@@ -8,7 +8,7 @@ I'm a Computer Science student passionate about machine learning, blockchain, an
 
 
 * 🤝  I'm open to collaborating on open-source projects, collaborate on innovative ideas, and learn from the developer community.
-* ⚡  🚀 I’m currently working on Habit tracking app with integrated ML to models for productivity tracking.
+* ⚡   I’m currently working on Habit tracking app with integrated ML to models for productivity tracking.
 
 ### Skills
 
