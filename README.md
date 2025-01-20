@@ -42,8 +42,6 @@ I'm a Computer Science student passionate about machine learning, blockchain, an
   </div>
 
 
-
-
 ## Contribution Graph 🌱
 
 <p align="center">
