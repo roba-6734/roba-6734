@@ -29,7 +29,7 @@ I'm a Computer Science student passionate about machine learning, blockchain, an
  <div style="border: 2px solid white; border-radius: 15px; padding: 15px; background-color: #121212; margin: 20px;">
     <div style="display: flex; gap: 40px; justify-content: center; align-items: center;">
      <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=roba-6734&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=roba-6734&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" 
        alt="GitHub Stats"
        style="width: 400px; height: 200px; object-fit: contain;"/>
 </div>
