@@ -33,6 +33,13 @@ I'm a Computer Science student passionate about machine learning, blockchain, an
        alt="GitHub Stats"
        style="width: 400px; height: 200px; object-fit: contain;"/>
 </div>
+  <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roba-6734&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" 
+             alt="roba-6734's Top Languages" 
+             style="width: 400px; height: 200px; object-fit: contain;"/>
+      </div>
+    </div>
+ </div>
 
 
 
