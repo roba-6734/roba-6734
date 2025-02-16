@@ -34,19 +34,6 @@ I'm a Computer Science student passionate about machine learning, blockchain, an
        style="width: 400px; height: 200px; object-fit: contain;"/>
 </div>
 
-### 🔥 Streak Stats
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roba-6734&theme=highcontrast&hide_border=true" 
-       alt="GitHub Streak Stats"
-       style="width: 400px; height: 200px; object-fit: contain;"/>
-</div>
-      <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roba-6734&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" 
-             alt="roba-6734's Top Languages" 
-             style="width: 400px; height: 200px; object-fit: contain;"/>
-      </div>
-    </div>
-  </div>
 
 
 ## Contribution Graph 🌱
