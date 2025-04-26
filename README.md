@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I'm a Computer Science student passionate about machine learning, blockchain, and full-stack development. 🌱 I’m currently exploring NLP, Robotics & Computer Vision.
+I'm a Computer Science student passionate about machine learning, blockchain, and full-stack development. 🌱 I’m currently exploring NLP, Robotics & Computer Vision
 
 
-* 🤝  I'm open to collaborating on open-source projects, collaborate on innovative ideas, and learn from the developer community.
-* ⚡   I’m currently working on Habit tracking app with integrated ML models for productivity tracking.
+* 🤝  I'm open to collaborating on open-source projects, collaborate on innovative ideas, and learn from the developer community
+* ⚡   I’m currently working on Habit tracking app with integrated ML models for productivity tracking
+
 
 ### Skills
 
