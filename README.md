@@ -30,6 +30,9 @@ I'm a Computer Science student passionate about machine learning, blockchain, an
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+</a>
 
   <!-- Web Dev -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -55,9 +58,7 @@ I'm a Computer Science student passionate about machine learning, blockchain, an
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://sklearn.org/stable/_static/scikit-learn-logo-small.png" width="36" height="36" alt="Scikit-Learn" />
-  </a>
+  
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="36" height="36" alt="OpenCV" />
   </a>
