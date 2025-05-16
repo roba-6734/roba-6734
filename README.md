@@ -72,25 +72,19 @@ I'm a Computer Science student interested in machine learning, and full-stack de
 <p align="left"> <a href="https://www.linkedin.com/in/robera-abera" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Roab3331" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-<b><I>My GitHub Stats</I></b> 
-![Profile Views](https://komarev.com/ghpvc/?username=roba-6734&style=for-the-badge&color=000000&labelColor=333333&label=Profile%20Views&logo=github&logoColor=white)
-
- <div style="border: 2px solid white; border-radius: 15px; padding: 15px; background-color: #121212; margin: 20px;">
-    <div style="display: flex; gap: 40px; justify-content: center; align-items: center;">
-     <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=roba-6734&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" 
-       alt="GitHub Stats"
-       style="width: 400px; height: 200px; object-fit: contain;"/>
-</div>
-  <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roba-6734&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" 
-             alt="roba-6734's Top Languages" 
-             style="width: 400px; height: 200px; object-fit: contain;"/>
-      </div>
-    </div>
- </div>
 
 
+
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=roba-6734&show_icons=true&theme=github-dark-blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roba-6734&layout=compact&theme=nightowl)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roba-6734&theme=dark)
 
 ## Contribution Graph 🌱
 
