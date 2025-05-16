@@ -80,11 +80,11 @@ I'm a Computer Science student interested in machine learning, and full-stack de
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=roba-6734&show_icons=true&theme=github-dark-blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roba-6734&layout=compact&theme=nightowl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roba-6734&layout=compact)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roba-6734&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roba-6734)
 
 ## Contribution Graph 🌱
 
