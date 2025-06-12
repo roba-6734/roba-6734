@@ -78,7 +78,6 @@ I'm a Computer Science student interested in machine learning, and full-stack de
 
 ## 📊 GitHub Stats  ![Profile Views](https://komarev.com/ghpvc/?username=roba-6734&style=for-the-badge&color=000000&labelColor=333333&label=Profile%20Views&logo=github&logoColor=white)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=roba-6734&show_icons=true&theme=github-dark-blue)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roba-6734&layout=compact)
 
